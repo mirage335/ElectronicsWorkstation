@@ -1,0 +1,73 @@
+Copyright (C) 2015 mirage335
+See the end of the file for license conditions.
+See license.txt for ElectronicsWorkstation license conditions.
+
+mirage335-site.dyndns.org
+
+Specialized desk for precision electronics and micro-mechanical work. Large, 8' x 3' work surface, equipment shelf, and storage shelf. Drawers and sliding trays are also supported.
+
+_Construction_
+Equipment shelf height should provide adequate clearance for a large widescreen computer monitor, while being low enough to support several feet of equipment within reach while sitting. Ideally, soldering irons, oscilloscopes, power supplies, and similar equipment are all kept on the equipment shelf, leaving the work surface absolutely clean at all times. By default, 19" clearance is provided, fine adjustment is left to the user.
+
+Bright lighting is essential for precision work. At least twelve ~40W (~2400 lumen) daylight compact flourescent light bulbs are recommended.
+
+Consider ading reinforcement 2x4 segments between the worksufrace and floor, as shown in the photo. Also be sure to use plenty of wood glue and appropriately sized, well placed, coated deck screws. Order of operations is also important - some segments may need to be joined interally.
+
+_Equipment_
+Following equipment is recommended.
+
+Microscope - AmScope SM-1BS, SM-1BN, SE304-PX, or SE104-P. Strongly recommend SM-1BS or SM-1BN. Be sure to mount protective glass over any microscope objectives while soldering to prevent damage.
+
+Calipers - http://www.harborfreight.com/6-in-digital-caliper-with-sae-and-metric-fractional-readings-68304.html
+
+Oscilloscope - Isolated (ie. battery powered) digital scopes with Vmax, Vavg, Vmin, Vrms, and frequency statistics preferred. DSO Nano recommended. - http://www.seeedstudio.com/depot/DSO-Nano-v3-p-1358.html
+Bench Scope - Occasionally more channels and bandwidth is helpful, particularly if an envelope detector is not readily available. Consider an analog XY capable scope to go with the digital scope.
+Function Generator - Should be capable of sine, triangle, and square waveform output at >1MHz.
+LCR Tweezers - http://www.smarttweezers.us/
+
+Tweezers - EROP7SA available from mouser.
+
+Soldering Iron - WSM1/TWSM1/WSM1C, WD1000M, WX1011 (must use WMRP/WXMP soldering pencil) - http://www.amazon.com/Weller-WSM1-Compact-Digital-Soldering/dp/B00466IF60
+Solering Iron Tips - RT1, RT3, available from Mouser.
+Hot-Air Station - http://www.amazon.com/WEP-858D-Soldering-Station-Suitable/dp/B0055B6NGE
+Solder Sucker - http://www.amazon.com/Parts-Express-Solder-Sucker--desoldering/dp/B0002KRAAG
+
+Mr Coffee Hot Plate - Pre-warms PCBs to ~135degC, reducing risk of damage during hot-air soldering - http://www.amazon.com/Mr-Coffee-MWBLK-Mug-Warmer/dp/B000CO89T8
+
+_Supplies_
+Following supplies are recommended.
+
+Solder - http://www.amazon.com/Amico-0-3mm-Rosin-Solder-Soldering/dp/B008DEYEAW
+Solder Paste - CAUTION Highly Toxic! Wash hands thoroughly! - http://www.amazon.com/Kester-EP256-Solder-Syringe-Dispenser/dp/B006UTCYM2
+Solder Wick - http://www.amazon.com/Aven-17542-Desoldering-2-5mm-Length/dp/B003E48ERU
+
+Wrapping Wire - http://www.amazon.com/Amico-B-30-1000-Plated-Copper-Wrepping/dp/B008AGUDEY
+
+Double Sided Tape - http://www.amazon.com/Scotch-Permanent-Double-Inches-3-Pack/dp/B0035LXTYU
+
+_Random_
+Random accessories may be added to the desk as follows.
+
+Tray - Consider ading a 18"x24" sliding tray to the right side of the desk, as a convenient place for laptops, keyboards, mice, etc.
+Monitor - Consider mounting a widescreen monitor with a 2x4 across the back.
+
+__Credit__
+http://www.hacdc.org/
+http://www.amazon.com/?tag=hacdc-20
+Thanks to HacDC for providing the resources to acquire prior experience needed to determine requirements for a workstation like this, and continuing to provide a friendly, well-equipped, colloborative environment. Please consider using HacDC's amazon affiliate link.
+
+__Copyright__
+This file is part of ElectronicsWorkstation.
+
+ElectronicsWorkstation is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ElectronicsWorkstation is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with ElectronicsWorkstation.  If not, see <http://www.gnu.org/licenses/>.
